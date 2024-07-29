@@ -1,0 +1,40 @@
+.menu-headder-main {
+  height: 52px;
+  width: 100vw;
+  background-color: #242526;
+}
+.menu-headder-left-grid {
+}
+.fb-logo {
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+}
+.search-bar {
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  height: 40px;
+  width: 210px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  padding-left: 30px;
+  font-size: 18px;
+  color: #b0b3b8;
+  background-color: #6f7174;
+}
+.searchIcon {
+  position: absolute;
+  left: 65px;
+  top: 17px;
+  z-index: 1;
+  width:20px !important;
+  height: 20px !important;
+  color: #b0b3b8;
+}
+
+.menu-headder-middle-grid {
+}
+.menu-headder-right-grid {
+}

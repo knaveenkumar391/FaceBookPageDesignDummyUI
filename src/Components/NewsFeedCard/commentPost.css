@@ -1,0 +1,12 @@
+.comment-sec-main{
+    margin-left: 10px;
+    margin-right:10px ;
+    margin-bottom: 10px;
+}
+.comment-card{
+    width:420px;
+    height:auto;
+    border-radius: 5px;
+    background-color: #3a3b3c;
+    margin-left: 10px;
+}

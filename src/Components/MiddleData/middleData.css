@@ -1,0 +1,14 @@
+.middle-data-main{
+    /* background-color: rgb(228, 228, 240); */
+    height:555px;
+    justify-content: center;
+    overflow-y: scroll;
+    background-color: transparent;
+    scrollbar-width: thin;
+  scrollbar-color: #4f5052 #242526;
+}
+.main-card{
+    border-radius: 10px;
+    background-color: #242526; 
+    height: 25rem;
+}

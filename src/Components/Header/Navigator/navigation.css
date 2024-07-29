@@ -1,0 +1,15 @@
+.navigation-div-main{
+    align-items: center;
+    justify-content: center;
+    height: 52px;
+}
+.common-nav-icons{
+    height: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.common-nav-icons:hover{
+    background-color: rgb(170, 160, 160);
+    border-radius: 10px;
+    border-bottom: 5px solid #0866ff;
+}

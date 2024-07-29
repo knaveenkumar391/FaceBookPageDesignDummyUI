@@ -1,0 +1,37 @@
+.rightMenu-main-div{
+    height:555px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #4f5052 #242526;
+}
+.right-contact-header{
+    height: 30px;
+}
+.right-logos {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .right1-names {
+    margin-top: 10px;
+  }
+  .logo-contents-container{
+    color:#dcdee3 ;
+    align-items: center;
+    
+  }
+  .rightMenu-main-div:hover{
+    overflow-y: scroll;
+  }
+
+  /* .rightMenu-main-div::-webkit-scrollbar {
+    width: 15px;
+  }
+  .rightMenu-main-div::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+  }
+  .rightMenu-main-div::-webkit-scrollbar-thumb {
+    background: #4f5052;
+    border-radius: 10px;
+    min-height: 40px;
+  } */

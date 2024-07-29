@@ -1,0 +1,38 @@
+.card-main-section{
+    border-radius: 10px;
+    background-color: #242526;
+    margin-bottom: 15px; 
+}
+.card-header-section{
+    margin: 10px;
+}
+.sub-content-header{
+    font-size: 13px;
+    margin:2px;
+    font-weight: 700;
+    color: #dcdee3;
+    opacity: 0.6;
+}
+.sub-content-header-setting{
+    margin-top: 10px;
+}
+.card-discription-section{
+    padding-left: 15px;
+}
+.discription-content{
+    margin: 0px;
+    color:#dcdee3;
+    opacity: 0.9;
+    font-size: 15px;
+    font-weight: 500;
+}
+.card-middle-section{
+margin-top: 10px;
+}
+.middle-section-image{
+    height:400px;
+    width: 100%;
+}
+.card-comment-section{
+
+}
